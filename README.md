@@ -1,12 +1,11 @@
-# Bank-churn-prediction
+# Bank churn prediction
 
 Aquí encontrarás los archivos correspondientes al trabajo que hemos realizado. Queremos compartir contigo los siguientes documentos:
 
 ## 📝 Archivos del Trabajo
 
-- [Plan de negocio de Netparking](https://github.com/franciscosesto/NetParking-/blob/main/NetParking%20emprendimientos.pdf): En este documento, hemos detallado la documentación técnica y funcional de nuestro proyecto NetParking.
-- [Presentación de Netparking](link al archivo PowerPoint): En esta presentación, hemos resumido los aspectos más importantes de NetParking, incluyendo características, ventajas y futuras mejoras.
-- [Números y proyecciones de Netparking](link al archivo Excel): Este archivo contiene el plan financiero y de costos asociado a nuestro proyecto NetParking.
+- [Notebook Bank churn prediction](https://github.com/franciscosesto/NetParking-/blob/main/NetParking%20emprendimientos.pdf](https://github.com/franciscosesto/Bank-churn-prediction/blob/main/Bank_customer_prediction_BIG_DATA_AUSTRAL.ipynb): En este notebook, hemos detallado el desarrollo del código.
+- [Presentación Bank churn prediction](https://github.com/franciscosesto/Bank-churn-prediction/blob/main/Bank%20Churn%20Big%20Data.pdf): En esta presentación, hemos resumido los aspectos más importantes del Bank churn prediction.
 
 ¡Te invitamos a revisar estos archivos y conocer más sobre nuestro trabajo!
 
