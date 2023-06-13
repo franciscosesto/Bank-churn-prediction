@@ -4,7 +4,7 @@ Aquí encontrarás los archivos correspondientes al trabajo que hemos realizado.
 
 ## 📝 Archivos del Trabajo
 
-- [Notebook Bank churn prediction](https://github.com/franciscosesto/NetParking-/blob/main/NetParking%20emprendimientos.pdf](https://github.com/franciscosesto/Bank-churn-prediction/blob/main/Bank_customer_prediction_BIG_DATA_AUSTRAL.ipynb): En este notebook, hemos detallado el desarrollo del código.
+- [Notebook Bank churn prediction](https://github.com/franciscosesto/Bank-churn-prediction/blob/main/Bank_customer_prediction_BIG_DATA_AUSTRAL.ipynb): En este notebook, hemos detallado el desarrollo del código.
 - [Presentación Bank churn prediction](https://github.com/franciscosesto/Bank-churn-prediction/blob/main/Bank%20Churn%20Big%20Data.pdf): En esta presentación, hemos resumido los aspectos más importantes del Bank churn prediction.
 
 ¡Te invitamos a revisar estos archivos y conocer más sobre nuestro trabajo!
